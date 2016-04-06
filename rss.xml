@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Daniel Chapin]]></title>
         <description><![CDATA[Daniel Chapin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daniel-chapin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 19:07:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 19:16:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daniel-chapin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>My broken arm</p>]]></description>
-            <link>undefined6827b7d8-cb85-4ad7-b4ef-22221b009c2b/index.html</link>
+            <description><![CDATA[<p>Bali here I come, www.arnalaya.com</p>]]></description>
+            <link>https://thegrid.ai/daniel-chapin/6827b7d8-cb85-4ad7-b4ef-22221b009c2b/index.html</link>
             <guid isPermaLink="false">6827b7d8-cb85-4ad7-b4ef-22221b009c2b</guid>
-            <pubDate>Wed, 06 Apr 2016 19:07:31 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2016 19:16:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
